@@ -8,27 +8,27 @@ function AlbumFeature(props) {
   const albumList = [
     {
       id: 1,
-      name: "Summer Hip",
+      name: "Đóa Hồng Nhạc Việt",
       thumbnailUrl:
-        "https://zingmp3.vn/album/Summer-Hip-tlinh-Binz-MCK-Gill/60FBUD88.html",
+        "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/1/9/b/b/19bb4ac2a382dead0b7acf9e537286bb.jpg",
     },
     {
       id: 2,
-      name: "Ballad Việt Ngày Nay",
+      name: "Summer Hits",
       thumbnailUrl:
-        "https://zingmp3.vn/album/Ballad-Viet-Ngay-Nay-Ha-Nhi-Thieu-Bao-Tram-Noo-Phuoc-Thinh-Trung-Quan-Idol/67WWC0AI.html",
+        "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/3/5/9/6/3596143bc42b957220b42d6954d0a346.jpg",
     },
     {
       id: 3,
-      name: "K-Pop DaeBak",
+      name: "EDM Now",
       thumbnailUrl:
-        "https://zingmp3.vn/album/K-Pop-Daebak-aespa-NCT-Dream-TAEYEON-LISA/ZOCCU87Z.html",
+        "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/8/6/4/0/8640bae04a0f3e79b236986ffa970e0e.jpg",
     },
     {
       id: 4,
-      name: "Giai Điệu V-Pop Tươi Vui",
+      name: "K-Pop: The A-List",
       thumbnailUrl:
-        "https://zingmp3.vn/album/Giai-Dieu-V-Pop-Tuoi-Vui-Hoang-Duyen-LyLy-AMEE-Lena/ZOED000C.html",
+        "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/b/1/1/d/b11da648070bb6d9a3de836ab767ba5b.jpg",
     },
   ];
 
